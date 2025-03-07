@@ -33,6 +33,7 @@ The **best configuration** will be displayed based on the silhouette score.
 
 ### Configurations
 We test three different **Doc2Vec** configurations:
+
 **Config_VS_50** → Vector size = 50  
 **Config_VS_100** → Vector size = 100  
 **Config_VS_150** → Vector size = 150  
