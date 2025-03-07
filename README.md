@@ -17,7 +17,7 @@ pip install numpy pandas matplotlib gensim scikit-learn joblib scikit-learn-extr
 ### Run the script:
 
 ```bash
-python main.py
+python doc2vec.py
 ```
 
 The script will:
