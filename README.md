@@ -9,7 +9,7 @@
 Ensure you have the following Python libraries installed:
 
 ```bash
-pip install numpy pandas matplotlib gensim scikit-learn joblib scikit-learn-extra
+pip3 install numpy pandas matplotlib gensim scikit-learn joblib scikit-learn-extra
 ```
 
 ---
@@ -17,7 +17,7 @@ pip install numpy pandas matplotlib gensim scikit-learn joblib scikit-learn-extr
 ### Run the script:
 
 ```bash
-python doc2vec.py
+python3 doc2vec.py
 ```
 
 The script will:
